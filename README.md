@@ -2,7 +2,7 @@
 
 **Cloud Native Platform Engineer** - Automation first, security always.
 
-Almost finished with my Kubestronaut certification, and moving my homelab kubernetes clusters towards CAPI cattle.
+Certified Kubestronaut!
 
 <!-- 
   Certification badges — uncomment each as it lands.
